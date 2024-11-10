@@ -5,7 +5,6 @@ A task management application built with Django REST framework and React. Manage
 
 ---
 
-
 ## 🌟 Features
 
 - 🆕 **Add Tasks:** Create new tasks with a title.
